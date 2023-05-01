@@ -10,6 +10,12 @@ Soy una apasionada de la programación y me dedico al desarrollo web. Estudio en
 - Herramientas de Diseño: **Figma**
 - Pruebas Unitarias: **Jest**
 
+## Habilidades Blandas
+- Trabajo en equipo
+- Resolución de problemas
+- Empatía
+- Creatividad
+
 ## Experiencia Laboral
 - Desarrolladora Front-End en proyectos simulados en Laboratoria: Desde que me uní a Laboratoria, he trabajado en varios proyectos simulados que me permitieron experimentar y poner en práctica mis conocimientos de programación y desarrollo web. Durante este tiempo, he aprendido a trabajar en equipo, a gestionar proyectos y a resolver problemas de manera efectiva.
 
