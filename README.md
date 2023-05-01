@@ -1,6 +1,6 @@
 # Hola, soy Fabiola 👋
 
-Soy una apasionada de la programación y me dedico al desarrollo web. Me gradué en , [Laboratoria](https://www.laboratoria.la/) donde adquirí habilidades en programación y desarrollo web, y he participado en varios proyectos simulados para poner en práctica mis conocimientos.
+Soy una apasionada de la programación y me dedico al desarrollo web. Estudio en , [Laboratoria](https://www.laboratoria.la/) donde estoy adquiríendo habilidades en programación y desarrollo web, y he participado en varios proyectos simulados para poner en práctica mis conocimientos.
 
 ## Habilidades Técnicas
 - Lenguajes de Programación: **JavaScript**, **HTML**, **CSS**
