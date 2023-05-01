@@ -1,6 +1,6 @@
 # Hola, soy Fabiola 👋
 
-Soy una apasionada de la programación y me dedico al desarrollo web. Me gradué en , [Laboratoria](https://www.laboratoria.la/)donde adquirí habilidades en programación y desarrollo web, y he participado en varios proyectos simulados para poner en práctica mis conocimientos.
+Soy una apasionada de la programación y me dedico al desarrollo web. Me gradué en , [Laboratoria](https://www.laboratoria.la/) donde adquirí habilidades en programación y desarrollo web, y he participado en varios proyectos simulados para poner en práctica mis conocimientos.
 
 ## Habilidades Técnicas
 - Lenguajes de Programación: **JavaScript**, **HTML**, **CSS**
@@ -23,6 +23,6 @@ Si tienes alguna pregunta o simplemente quieres decir hola, ¡no dudes en ponert
 - 📧 floresdelacruzkellyfabiola@gmail.com
 - 📱 +51955744978
 - 📍 Lima, Perú
-- 💼 [LinkedIn](www.linkedin.com/in/fabiola-fc)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabiola-flores-de-la-cruz/)
 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
