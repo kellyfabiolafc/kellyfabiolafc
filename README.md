@@ -23,6 +23,6 @@ Si tienes alguna pregunta o simplemente quieres decir hola, ¡no dudes en ponert
 - 📧 floresdelacruzkellyfabiola@gmail.com
 - 📱 +51955744978
 - 📍 Lima, Perú
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabiola-flores-de-la-cruz/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/fabiola-flores-de-la-crz/)
 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
