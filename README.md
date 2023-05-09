@@ -15,6 +15,8 @@ Soy una apasionada de la programación y me dedico al desarrollo web. Estudio en
 - Resolución de problemas
 - Empatía
 - Creatividad
+- Organización 
+- Aprendizaje autonomo 
 
 ## Experiencia Laboral
 - Desarrolladora Front-End en proyectos simulados en Laboratoria: Desde que me uní a Laboratoria, he trabajado en varios proyectos simulados que me permitieron experimentar y poner en práctica mis conocimientos de programación y desarrollo web. Durante este tiempo, he aprendido a trabajar en equipo, a gestionar proyectos y a resolver problemas de manera efectiva.
