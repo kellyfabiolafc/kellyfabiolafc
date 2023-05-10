@@ -1,6 +1,6 @@
-# Hola, soy Fabiola 👋
-
-Soy una apasionada de la programación y me dedico al desarrollo web. Estudio en , [Laboratoria](https://www.laboratoria.la/) donde estoy adquiríendo habilidades en programación y desarrollo web, y he participado en varios proyectos simulados para poner en práctica mis conocimientos.
+<p align="center" width="100%"> <img width="100%" src="FondoGithub.png"></p>
+<main background="pink">
+  
 
 ## Habilidades Técnicas
 - Lenguajes de Programación: **JavaScript**, **HTML**, **CSS**
@@ -34,3 +34,5 @@ Si tienes alguna pregunta o simplemente quieres decir hola, ¡no dudes en ponert
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabiola-flores-de-la-crz/)
 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
+  
+  </main>
