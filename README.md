@@ -1,4 +1,8 @@
-<p align="center" width="100%"> <img width="100%" src="GithubFabiola.png"></p>
+
+<div style="background-color: pink;">
+<p align="center" width="100%"> 
+  <img width="100%" src="GithubFabiola.png">
+</p>
 
   
 
@@ -34,4 +38,5 @@ Si tienes alguna pregunta o simplemente quieres decir hola, ¡no dudes en ponert
 - 💼 [LinkedIn](https://www.linkedin.com/in/fabiola-flores-de-la-crz/)
 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
+  </div>
 
