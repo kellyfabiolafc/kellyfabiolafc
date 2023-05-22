@@ -7,7 +7,8 @@
 
   
 
-## Habilidades Técnicas
+## 💻 
+Habilidades Técnicas
 - Lenguajes de Programación: **JavaScript**, **HTML**, **CSS**
 - Frameworks y Librerías: **ReactJS**, **Node.js**
 - Metodologías Ágiles: **Scrum**
@@ -15,7 +16,7 @@
 - Herramientas de Diseño: **Figma**
 - Pruebas Unitarias: **Jest**
 
-## Habilidades Blandas
+## 😃 Habilidades Blandas
 - Trabajo en equipo
 - Resolución de problemas
 - Empatía
@@ -26,7 +27,7 @@
 ## Experiencia Laboral
 - Desarrolladora Front-End en proyectos simulados en Laboratoria: Desde que me uní a Laboratoria, he trabajado en varios proyectos simulados que me permitieron experimentar y poner en práctica mis conocimientos de programación y desarrollo web. Durante este tiempo, he aprendido a trabajar en equipo, a gestionar proyectos y a resolver problemas de manera efectiva.
 
-## Proyectos Destacados
+## 📂 Proyectos Destacados
 1. **[Card Validation](https://kellyfabiolafc.github.io/DEV004-card-validation/)**: Proyecto creado con el objetivo de mejorar la experiencia del usuario al realizar tareas específicas, como validar un número de tarjeta de crédito. Tecnologías: Manipulación básica del DOM, HTML, CSS.
 2. **Data Lovers - [Studio Ghibli](https://kellyfabiolafc.github.io/DEV004-data-lovers/src/)**: Proyecto creado con la finalidad de proporcionar información detallada sobre las animaciones de Studio Ghibli. Esta página web fue creada pensando en los fanáticos de la animación interesados en conocer más sobre las obras de esta casa productora. La página es dinámica y te permite: ordenar, filtrar y calcular. Tecnologías: Manipulación de datos, Responsive, Pruebas unitarias.
 3. **Social Network - [Wanderlust](https://wanderlust-kea.netlify.app/)**: Red social de viajes donde los usuarios pueden compartir sus aventuras y descubrir nuevos destinos a través de la experiencia de otros viajeros. La aplicación utiliza la tecnología de Firebase para almacenar y recuperar datos de usuarios y publicaciones. Tecnologías: Manipulación de datos, Firebase, Single-page Application.
