@@ -7,8 +7,7 @@
 
   
 
-## 💻 
-Habilidades Técnicas
+## 💻 Habilidades Técnicas
 - Lenguajes de Programación: **JavaScript**, **HTML**, **CSS**
 - Frameworks y Librerías: **ReactJS**, **Node.js**
 - Metodologías Ágiles: **Scrum**
