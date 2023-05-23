@@ -1,6 +1,6 @@
 
 <p align="center" width="100%"> 
-  <img width="100%" src="Fabiola.jpg">
+  <img width="100%" src="banner.gif">
 </p>
 ¡Hola! Soy Fabiola, una apasionada de la programación y el desarrollo frontend. 
 Estudié en Laboratoria, adquiriendo habilidades en desarrollo web y participando en proyectos simulados para poner en práctica mis conocimientos.
