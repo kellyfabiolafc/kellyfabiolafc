@@ -2,25 +2,28 @@
 <p align="center" width="100%"> 
   <img width="100%" src="Fabiola.jpg">
 </p>
+¡Hola! Soy Fabiola, una apasionada de la programación y el desarrollo frontend. 
+Estudié en Laboratoria, adquiriendo habilidades en desarrollo web y participando en proyectos simulados para poner en práctica mis conocimientos.
+Soy una desarrolladora frontend comprometida y apasionada, que busca crear soluciones eficientes y mejorar la vida de las personas.
+¡Estoy emocionada por conectar con otros desarrolladores y trabajar en proyectos interesantes juntos!
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F1A1D3&width=435&lines=%F0%9F%92%BB+Tecnologías)](https://git.io/typing-svg)
-- Lenguajes de Programación: **JavaScript**, **HTML**, **CSS**
-- Frameworks y Librerías: **ReactJS**, **Node.js**
-- Metodologías Ágiles: **Scrum**
-- Herramientas de Control de Versiones: **Git**, **GitHub**
-- Herramientas de Diseño: **Figma**
-- Pruebas Unitarias: **Jest**
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F1A1D3&width=435&lines=%F0%9F%92%BB+Herramientas+Tecnol%C3%B3gicas+)](https://git.io/typing-svg)
 <div align="center">  
   <table><tr><td valign="top" width="33%">
-<a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
+ <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+ <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
+ <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+ <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+ <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" />
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+ <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+ <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+ <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" />
+ <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+ <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
     </td></tr></table>  
 </div>
 
@@ -29,7 +32,7 @@
 
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=7960E6&width=435&lines=%F0%9F%98%80+Habilidade+Blandas)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=7960E6&width=435&lines=%F0%9F%98%80+Habilidades+Blandas)](https://git.io/typing-svg)
  <br>
 - Trabajo en equipo
 - Resolución de problemas
@@ -64,5 +67,5 @@
 
 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
- 
 
+                   
