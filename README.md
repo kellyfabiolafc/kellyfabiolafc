@@ -14,7 +14,7 @@
 
 
 
-
+ 
 
 
 
@@ -60,8 +60,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=7960E6&width=435&lines=%F0%9F%93%82+Proyectos+Destacados)](https://git.io/typing-svg)
  
 1. **[Card Validation](https://kellyfabiolafc.github.io/DEV004-card-validation/)**: Proyecto creado con el objetivo de mejorar la experiencia del usuario al realizar tareas específicas, como validar un número de tarjeta de crédito. 
-2. **Data Lovers - [Studio Ghibli](https://kellyfabiolafc.github.io/DEV004-data-lovers/src/)**: Proyecto creado con la finalidad de proporcionar información detallada sobre las animaciones de Studio Ghibli. 
-3. **Social Network - [Wanderlust](https://wanderlust-kea.netlify.app/)**: Red social de viajes donde los usuarios pueden compartir sus aventuras y descubrir nuevos destinos a través de la experiencia de otros viajeros. 
+2. **[Studio Ghibli](https://kellyfabiolafc.github.io/DEV004-data-lovers/src/)**: Proyecto creado con la finalidad de proporcionar información detallada sobre las animaciones de Studio Ghibli. 
+3. **[Wanderlust](https://wanderlust-kea.netlify.app/)**: Red social de viajes donde los usuarios pueden compartir sus aventuras y descubrir nuevos destinos a través de la experiencia de otros viajeros. 
  <br>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F1A1D3&width=435&lines=%F0%9F%93%AC+Contacto)](https://git.io/typing-svg)
