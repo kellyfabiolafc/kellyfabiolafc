@@ -1,11 +1,22 @@
-### Hola, Soy Fabiola 👋
+# Hola, Soy Fabiola Flores👋
 <p align="center" width="100%"> 
   <img width="100%" src="bannerr.gif">
 </p>
-¡Hola! Soy Fabiola, una apasionada de la programación y el desarrollo frontend. 
-Estudié en Laboratoria, adquiriendo habilidades en desarrollo web y participando en proyectos simulados para poner en práctica mis conocimientos.
-Soy una desarrolladora frontend comprometida y apasionada, que busca crear soluciones eficientes y mejorar la vida de las personas.
-¡Estoy emocionada por conectar con otros desarrolladores y trabajar en proyectos interesantes juntos!
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=7960E6&width=435&lines=%F0%9F%98%84+Acerca+de+mi+)](https://git.io/typing-svg)
+
+   Soy Fabiola, me encanta la programación y estoy comprometida con encontrar soluciones innovadoras a los problemas. Estudio en Laboratoria para adquirir habilidades
+   en programación y desarrollo web, y he participado en proyectos simulados para poner en práctica mis conocimientos.
+
+- 👩‍💻 Actualmente soy una **Desarrolladora Frontend Junior** y estudio en **Laboratoria**.
+- 🌟 He utilizado metodologías ágiles como Scrum para facilitar la colaboración y maximizar la eficiencia del equipo.
+- 🕹 ¡Soy una apasionada de la tecnología y los retos!
+
+
+
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F1A1D3&width=435&lines=%F0%9F%92%BB+Herramientas+Tecnol%C3%B3gicas+)](https://git.io/typing-svg)
 <div align="center">  
