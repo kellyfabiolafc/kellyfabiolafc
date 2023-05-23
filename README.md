@@ -31,10 +31,11 @@
 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=📬+Contacto)](https://git.io/typing-svg)
 Si tienes alguna pregunta o simplemente quieres decir hola, ¡no dudes en ponerte en contacto conmigo!
-- 📧 floresdelacruzkellyfabiola@gmail.com
-- 📱 +51955744978
-- 📍 Lima, Perú
-- 💼 [LinkedIn](https://www.linkedin.com/in/fabiola-flores-de-la-crz/)
+<p align="center">
+<a href="https://www.linkedin.com/in/fabiola-flores-de-la-cruz"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Fabiola%20Flores-blue?style=flat-square&logo=linkedin"></a>
+<a href="mailto:floresdelacruzkellyfabiola@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-floresdelacruzkellyfabiola@gmail.com-blue?style=flat-square&logo=gmail"></a>
+</p>
+
 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
  
