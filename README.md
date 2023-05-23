@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F1A1D3&width=435&lines=Hola+%2C+soy+Fabiola+Flores+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=Hola+%2C+soy+Fabiola+Flores+%F0%9F%91%8B)](https://git.io/typing-svg)
 <p align="center" width="100%"> 
   <img width="100%" src="banr7.gif">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=7960E6&width=435&lines=%F0%9F%98%84+Acerca+de+mi+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%98%84+Acerca+de+mi+)](https://git.io/typing-svg)
 
    Soy Fabiola, me encanta la programación y estoy comprometida con encontrar soluciones innovadoras a los problemas. Estudio en Laboratoria para adquirir habilidades
    en programación y desarrollo web, y he participado en proyectos simulados para poner en práctica mis conocimientos.
@@ -18,7 +18,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F1A1D3&width=435&lines=%F0%9F%92%BB+Herramientas+Tecnol%C3%B3gicas+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%92%BB+Herramientas+Tecnol%C3%B3gicas+)](https://git.io/typing-svg)
 <div align="center">  
   <table><tr><td valign="top" width="33%">
 <div align="center">  
@@ -45,7 +45,7 @@
 
 
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=7960E6&width=435&lines=%F0%9F%98%80+Habilidades+Blandas)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%98%80+Habilidades+Blandas)](https://git.io/typing-svg)
  <br>
 - Trabajo en equipo
 - Resolución de problemas
@@ -55,18 +55,18 @@
 - Aprendizaje autonomo 
  <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F1A1D3&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Experiencia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Experiencia)](https://git.io/typing-svg)
  
 - Desarrolladora Front-End en proyectos simulados en Laboratoria: Desde que me uní a Laboratoria, he trabajado en varios proyectos simulados que me permitieron experimentar y poner en práctica mis conocimientos de programación y desarrollo web. Durante este tiempo, he aprendido a trabajar en equipo, a gestionar proyectos y a resolver problemas de manera efectiva.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=7960E6&width=435&lines=%F0%9F%93%82+Proyectos+Destacados)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%82+Proyectos+Destacados)](https://git.io/typing-svg)
  
 1. **[Card Validation](https://kellyfabiolafc.github.io/DEV004-card-validation/)**: Proyecto creado con el objetivo de mejorar la experiencia del usuario al realizar tareas específicas, como validar un número de tarjeta de crédito. 
 2. **[Studio Ghibli](https://kellyfabiolafc.github.io/DEV004-data-lovers/src/)**: Proyecto creado con la finalidad de proporcionar información detallada sobre las animaciones de Studio Ghibli. 
 3. **[Wanderlust](https://wanderlust-kea.netlify.app/)**: Red social de viajes donde los usuarios pueden compartir sus aventuras y descubrir nuevos destinos a través de la experiencia de otros viajeros. 
  <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=F1A1D3&width=435&lines=%F0%9F%93%AC+Contacto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%AC+Contacto)](https://git.io/typing-svg)
  
 <div align="center">
 <a href="https://linkedin.com/in/fabiola-fc" target="_blank">
