@@ -5,10 +5,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%98%84+Acerca+de+mi+)](https://git.io/typing-svg)
 
-   Soy Fabiola, me encanta la programación y estoy comprometida con encontrar soluciones innovadoras a los problemas. Estudio en Laboratoria para adquirir habilidades
+   Soy Fabiola, me encanta la programación y estoy comprometida con encontrar soluciones innovadoras a los problemas. Estudié en Laboratoria donde adquiri habilidades
    en programación y desarrollo web, y he participado en proyectos simulados para poner en práctica mis conocimientos.
 
-- 👩‍💻 Actualmente soy una **Desarrolladora Frontend Junior** y estudio en **Laboratoria**.
+- 👩‍💻 Actualmente soy una **Desarrolladora Frontend Junior** y estoy trabajanso en proyectos personales.
 - 🌟 He utilizado metodologías ágiles como Scrum para facilitar la colaboración y maximizar la eficiencia del equipo.
 - 🕹 ¡Soy una apasionada de la tecnología y los retos!
 
