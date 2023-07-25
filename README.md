@@ -81,9 +81,14 @@
 
 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
+<br>
+<div align="center"> 
 
 
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+  
 
-![Fabiola's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&theme=radical)
-                   
-![Fabiola's GitHub stats](https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true)
+  </div> 
+
+<br/>  
+
