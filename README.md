@@ -72,7 +72,7 @@
  <br>
 <div align="center">
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=kellyfabiolafc&theme=onedark&column=3&margin-w=15&margin-h=15&title=Joined2023,PullRequest,Commits,Repositories,Stars,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=kellyfabiolafc&theme=onedark&column=3&margin-w=15&margin-h=15&title=Joined2023,PullRequest,Commits,Repositories,Stars,Reviews,Contributed)](https://github.com/ryo-ma/github-profile-trophy)
  
 </div>
 <br/>
