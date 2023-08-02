@@ -68,6 +68,17 @@
 3. **[Wanderlust](https://wanderlust-kea.netlify.app/)**: Red social de viajes donde los usuarios pueden compartir sus aventuras y descubrir nuevos destinos a través de la experiencia de otros viajeros. 
  <br>
  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%AC+Estadisticas)](https://git.io/typing-svg)
+ <br>
+
+<div align="center">
+
+ [![trophy](https://github-profile-trophy.vercel.app/?username=kellyfabiolafc&theme=onedark&title=Joined2020,PullRequest,Commits,Repositories,Stars,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+
+</div>
+
+<br/>  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%AC+Contacto)](https://git.io/typing-svg)
  
 <div align="center">
@@ -83,14 +94,3 @@
 
 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
-<br>
-<div align="center"> 
-
-
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=kellyfabiolafc&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
-  
-
-  </div> 
-
-<br/>  
-
