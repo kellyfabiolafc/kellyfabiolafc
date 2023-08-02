@@ -70,15 +70,14 @@
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%AC+Estadisticas)](https://git.io/typing-svg)
  <br>
-
 <div align="center">
 
- [![trophy](https://github-profile-trophy.vercel.app/?username=kellyfabiolafc&theme=onedark&title=Joined2020,PullRequest,Commits,Repositories,Stars,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=kellyfabiolafc&theme=onedark&column=3&margin-w=15&margin-h=15&title=Joined2023,PullRequest,Commits,Repositories,Stars,Reviews)](https://github.com/ryo-ma/github-profile-trophy)
  
-
 </div>
+<br/>
 
-<br/>  
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%AC+Contacto)](https://git.io/typing-svg)
  
