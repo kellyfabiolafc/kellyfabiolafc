@@ -79,6 +79,7 @@
 </div>
 
 <br/>  
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%AC+Contacto)](https://git.io/typing-svg)
  
 <div align="center">
