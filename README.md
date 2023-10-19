@@ -7,18 +7,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%98%84+Acerca+de+mi+)](https://git.io/typing-svg)
 
-   Soy Fabiola, me encanta la programación y estoy comprometida con encontrar soluciones innovadoras a los problemas. Estudié en Laboratoria donde adquiri habilidades
-   en programación y desarrollo web, y he participado en proyectos simulados para poner en práctica mis conocimientos.
-
-- 👩‍💻 Actualmente soy una **Desarrolladora Frontend Junior** y estoy trabajanso en proyectos personales.
-- 🌟 He utilizado metodologías ágiles como Scrum para facilitar la colaboración y maximizar la eficiencia del equipo.
-- 🕹 ¡Soy una apasionada de la tecnología y los retos!
-
-
-
  
-
-
+- 💻 Desarrolladora Frontend Junior.
+- 📚 Graduada de Laboratoria.
+- 🌟 Apasionada por la tecnología y los retos.
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%92%BB+Herramientas+Tecnol%C3%B3gicas+)](https://git.io/typing-svg)
 <div align="center">  
@@ -51,12 +43,13 @@
 
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%98%80+Habilidades+Blandas)](https://git.io/typing-svg)
  <br>
-- Trabajo en equipo
-- Resolución de problemas
-- Empatía
-- Creatividad
-- Organización 
-- Aprendizaje autonomo 
+- 🤝 Trabajo en equipo.
+- 🧠 Resolución de problemas.
+- 🌈 Empatía.
+- ✨ Creatividad.
+- 🗃️ Organización.
+- 📖 Aprendizaje autónomo.- Trabajo en equipo
+
  <br>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Experiencia)](https://git.io/typing-svg)
@@ -65,9 +58,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%82+Proyectos+Destacados)](https://git.io/typing-svg)
  
-1. **[Card Validation](https://kellyfabiolafc.github.io/DEV004-card-validation/)**: Proyecto creado con el objetivo de mejorar la experiencia del usuario al realizar tareas específicas, como validar un número de tarjeta de crédito. 
-2. **[Studio Ghibli](https://kellyfabiolafc.github.io/DEV004-data-lovers/src/)**: Proyecto creado con la finalidad de proporcionar información detallada sobre las animaciones de Studio Ghibli. 
-3. **[Wanderlust](https://wanderlust-kea.netlify.app/)**: Red social de viajes donde los usuarios pueden compartir sus aventuras y descubrir nuevos destinos a través de la experiencia de otros viajeros. 
+1. **[Card Validation](https://kellyfabiolafc.github.io/DEV004-card-validation/)**:  Mejora la experiencia de usuario al validar números de tarjeta de crédito.
+2. **[Studio Ghibli](https://kellyfabiolafc.github.io/DEV004-data-lovers/src/)**: Detalles encantadores sobre animaciones de Studio Ghibli. 
+3. **[Wanderlust](https://wanderlust-kea.netlify.app/)**:  Red social viajera para compartir aventuras y descubrir nuevos destinos.
  <br>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%AC+Estadisticas)](https://git.io/typing-svg)
