@@ -91,8 +91,12 @@
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 
 </a>  
+
 </div>  
  <br>
 
 
 ¡Gracias por visitar mi repositorio de GitHub! Siéntete libre de explorar mis proyectos y contactarme si tienes alguna pregunta o comentario.
+
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kellyfabiolafc)
+
