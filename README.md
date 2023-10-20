@@ -1,18 +1,34 @@
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%C2%A1%F0%9D%90%BB%F0%9D%91%9C%F0%9D%93%81%F0%9D%92%B6%2C+%F0%9D%93%88%F0%9D%91%9C%F0%9D%93%8E+%F0%9D%90%B9%F0%9D%92%B6%F0%9D%92%B7%F0%9D%92%BE%F0%9D%91%9C%F0%9D%93%81%F0%9D%92%B6+%F0%9D%90%B9%F0%9D%93%81%F0%9D%91%9C%F0%9D%93%87%F0%9D%91%92%F0%9D%93%88!+%F0%9F%91%8B)](https://git.io/typing-svg)
-<p align="center" width="100%"> 
-  <img width="100%" src="banr7.gif">
+<a style="text-align:center;" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9D%93%97%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA%2C++%F0%9D%93%A2%F0%9D%93%B8%F0%9D%94%82+%F0%9D%93%95%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA+%F0%9D%93%95%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%BC!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<p> 
+<img  style="margin-top: 40px;" align="right" width="400px" src="https://media3.giphy.com/media/27bFONcG7bw9ldbDEC/giphy.gif" >
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%9D+%F0%9D%93%90%F0%9D%93%AC%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%AC%F0%9D%93%AA+%F0%9D%93%AD%F0%9D%93%AE+%F0%9D%93%B6%F0%9D%93%B2)](https://git.io/typing-svg)
- 
-- 💻 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐽𝑢𝑛𝑖𝑜𝑟.
-- 📚 𝐺𝑟𝑎𝑑𝑢𝑎𝑑𝑎 𝑑𝑒 𝐿𝑎𝑏𝑜𝑟𝑎𝑡𝑜𝑟𝑖𝑎.
-- 🌟 𝐴𝑝𝑎𝑠𝑖𝑜𝑛𝑎𝑑𝑎 𝑝𝑜𝑟 𝑙𝑎 𝑡𝑒𝑐𝑛𝑜𝑙𝑜𝑔𝑖́𝑎 𝑦 𝑙𝑜𝑠 𝑟𝑒𝑡𝑜𝑠.
+<div style="margin-top: 40px;" align="left" width="400px">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%9D+%F0%9D%93%90%F0%9D%93%AC%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%AC%F0%9D%93%AA+%F0%9D%93%AD%F0%9D%93%AE+%F0%9D%93%B6%F0%9D%93%B2" alt="Typing SVG" /></a>
+<ul>
+  <li>💻 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐽𝑢𝑛𝑖𝑜𝑟.</li>
+  <li>📚 𝐺𝑟𝑎𝑑𝑢𝑎𝑑𝑎 𝑑𝑒 𝐿𝑎𝑏𝑜𝑟𝑎𝑡𝑜𝑟𝑖𝑎.</li>
+  <li>🌟 𝐴𝑝𝑎𝑠𝑖𝑜𝑛𝑎𝑑𝑎 𝑝𝑜𝑟 𝑙𝑎 𝑡𝑒𝑐𝑛𝑜𝑙𝑜𝑔𝑖́𝑎 𝑦 𝑙𝑜𝑠 𝑟𝑒𝑡𝑜𝑠.</li>
+</ul>
+</div>
+ <div style="margin-top: 40px;" align="left" width="400px">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=+%F0%9F%8E%AF+%F0%9D%93%97%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%BC+%F0%9D%93%91%F0%9D%93%B5%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
+ <br>
+ <ul>
+  <li>🤝 𝑇𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜.</li>
+  <li>🧠 𝑅𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜𝑛 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.</li>
+  <li>🌈 𝐸𝑚𝑝𝑎𝑡𝑖́𝑎.</li>
+  <li>✨ 𝐶𝑟𝑒𝑎𝑡𝑖𝑣𝑖𝑑𝑎𝑑.</li>
+  <li>🗃️ 𝑂𝑟𝑔𝑎𝑛𝑖𝑧𝑎𝑐𝑖𝑜́𝑛.</li>
+  <li>📖 𝐴𝑝𝑟𝑒𝑛𝑑𝑖𝑧𝑎𝑗𝑒 𝑎𝑢𝑡𝑜́𝑛𝑜𝑚𝑜.</li>
+</ul>
+
+
+</div>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%BB%F0%9D%93%AA%F0%9D%93%B6%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%BC+%F0%9D%93%A3%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%B7%F0%9D%93%B8%F0%9D%93%B5%C3%B3%F0%9D%93%B0%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
-<div align="center">  
+<div align="right">  
   <table><tr><td valign="top" width="33%">
 <div align="center">  
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
@@ -37,17 +53,6 @@
 
 
 <br/>  
-
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=+%F0%9F%8E%AF+%F0%9D%93%97%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%BC+%F0%9D%93%91%F0%9D%93%B5%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
- <br>
-- 🤝 𝑇𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜.
-- 🧠 𝑅𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜𝑛 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.
-- 🌈 𝐸𝑚𝑝𝑎𝑡𝑖́𝑎.
-- ✨ 𝐶𝑟𝑒𝑎𝑡𝑖𝑣𝑖𝑑𝑎𝑑.
-- 🗃️ 𝑂𝑟𝑔𝑎𝑛𝑖𝑧𝑎𝑐𝑖𝑜́𝑛.
-- 📖 𝐴𝑝𝑟𝑒𝑛𝑑𝑖𝑧𝑎𝑗𝑒 𝑎𝑢𝑡𝑜́𝑛𝑜𝑚𝑜.
-
 
  <br>
  
