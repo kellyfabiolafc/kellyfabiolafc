@@ -52,19 +52,32 @@
 </div>
 
 
-<br/>  
-
- <br>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9A%80+%F0%9D%93%94%F0%9D%94%81%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AC%F0%9D%93%B2%F0%9D%93%AA)](https://git.io/typing-svg)
- 
-- 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝐹𝑟𝑜𝑛𝑡-𝐸𝑛𝑑 𝑒𝑛 𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠 𝑠𝑖𝑚𝑢𝑙𝑎𝑑𝑜𝑠 𝑒𝑛 𝐿𝑎𝑏𝑜𝑟𝑎𝑡𝑜𝑟𝑖𝑎: 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎 𝑒𝑛 𝑑𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑜 𝑦 𝑔𝑒𝑠𝑡𝑖𝑜𝑛 𝑑𝑒 𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠 𝑤𝑒𝑏. 𝐻𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑒𝑛 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜 𝑦 𝑟𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜́𝑛 𝑒𝑓𝑒𝑐𝑡𝑖𝑣𝑎 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%8C%9F+%F0%9D%93%9F%F0%9D%93%BB%F0%9D%93%B8y%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8%F0%9D%93%BC+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B8%F0%9D%93%BC)](https://git.io/typing-svg)
-1. **[Card Validation](https://kellyfabiolafc.github.io/DEV004-card-validation/)**: 𝑀𝑒𝑗𝑜𝑟𝑎 𝑙𝑎 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎 𝑑𝑒 𝑢𝑠𝑢𝑎𝑟𝑖𝑜 𝑎𝑙 𝑣𝑎𝑙𝑖𝑑𝑎𝑟 𝑛𝑢́𝑚𝑒𝑟𝑜𝑠 𝑑𝑒 𝑡𝑎𝑟𝑗𝑒𝑡𝑎 𝑑𝑒 𝑐𝑟𝑒́𝑑𝑖𝑡𝑜.
-2. **[Studio Ghibli](https://kellyfabiolafc.github.io/DEV004-data-lovers/src/)**: 𝐷𝑒𝑡𝑎𝑙𝑙𝑒𝑠 𝑒𝑛𝑐𝑎𝑛𝑡𝑎𝑑𝑜𝑟𝑒𝑠 𝑠𝑜𝑏𝑟𝑒 𝑎𝑛𝑖𝑚𝑎𝑐𝑖𝑜𝑛𝑒𝑠 𝑑𝑒 𝑆𝑡𝑢𝑑𝑖𝑜 𝐺ℎ𝑖𝑏𝑙𝑖. 
-3. **[Wanderlust](https://wanderlust-kea.netlify.app/)**: 𝑅𝑒𝑑 𝑠𝑜𝑐𝑖𝑎𝑙 𝑣𝑖𝑎𝑗𝑒𝑟𝑎 𝑝𝑎𝑟𝑎 𝑐𝑜𝑚𝑝𝑎𝑟𝑡𝑖𝑟 𝑎𝑣𝑒𝑛𝑡𝑢𝑟𝑎𝑠 𝑦 𝑑𝑒𝑠𝑐𝑢𝑏𝑟𝑖𝑟 𝑛𝑢𝑒𝑣𝑜𝑠 𝑑𝑒𝑠𝑡𝑖𝑛𝑜𝑠.
- <br>
+<div style="display: flex; justify-content: space-around;">
+    <div  style="width: 48%; padding-right: 10px;">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9A%80+%F0%9D%93%94%F0%9D%94%81%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AC%F0%9D%93%B2%F0%9D%93%AA" alt="Typing SVG" /></a>
+ <p> - 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝐹𝑟𝑜𝑛𝑡-𝐸𝑛𝑑 𝑒𝑛 𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠 𝑠𝑖𝑚𝑢𝑙𝑎𝑑𝑜𝑠  <br>
+   𝑒𝑛 𝐿𝑎𝑏𝑜𝑟𝑎𝑡𝑜𝑟𝑖𝑎: 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎 𝑒𝑛 𝑑𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑜 𝑦 𝑔𝑒𝑠𝑡𝑖𝑜𝑛 𝑑𝑒 <br> 
+   𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠  𝑤𝑒𝑏. 𝐻𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑒𝑛 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜 𝑦 <br>
+   𝑟𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜́𝑛 𝑒𝑓𝑒𝑐𝑡𝑖𝑣𝑎 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.</p>
+    </div>
+    <div style="width: 48%; padding-left: 10px;>
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=+%F0%9F%8C%9F+%F0%9D%93%9F%F0%9D%93%BB%F0%9D%93%B8%F0%9D%94%82%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8%F0%9D%93%BC+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B8%F0%9D%93%BC" alt="Typing SVG" /></a>
+ <ol>
+    <li>
+        <strong><a href="https://kellyfabiolafc.github.io/DEV004-card-validation/">Card Validation</a>:</strong> 𝑀𝑒𝑗𝑜𝑟𝑎 𝑙𝑎 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎 <br>
+      𝑑𝑒 𝑢𝑠𝑢𝑎𝑟𝑖𝑜 𝑎𝑙 𝑣𝑎𝑙𝑖𝑑𝑎𝑟 𝑛𝑢́𝑚𝑒𝑟𝑜𝑠 𝑑𝑒 <br>
+      𝑡𝑎𝑟𝑗𝑒𝑡𝑎 𝑑𝑒 𝑐𝑟𝑒́𝑑𝑖𝑡𝑜.
+    </li>
+    <li>
+        <strong><a href="https://kellyfabiolafc.github.io/DEV004-data-lovers/src/">Studio Ghibli</a>:</strong> 𝐷𝑒𝑡𝑎𝑙𝑙𝑒𝑠 𝑒𝑛𝑐𝑎𝑛𝑡𝑎𝑑𝑜𝑟𝑒𝑠 <br>
+      𝑠𝑜𝑏𝑟𝑒 𝑎𝑛𝑖𝑚𝑎𝑐𝑖𝑜𝑛𝑒𝑠 𝑑𝑒 𝑆𝑡𝑢𝑑𝑖𝑜 𝐺ℎ𝑖𝑏𝑙𝑖.
+    </li>
+    <li>
+        <strong><a href="https://wanderlust-kea.netlify.app/">Wanderlust</a>:</strong> 𝑅𝑒𝑑 𝑠𝑜𝑐𝑖𝑎𝑙 𝑣𝑖𝑎𝑗𝑒𝑟𝑎 <br> 𝑝𝑎𝑟𝑎 𝑐𝑜𝑚𝑝𝑎𝑟𝑡𝑖𝑟 𝑎𝑣𝑒𝑛𝑡𝑢𝑟𝑎𝑠 𝑦 <br> 𝑑𝑒𝑠𝑐𝑢𝑏𝑟𝑖𝑟 𝑛𝑢𝑒𝑚𝑜𝑠 𝑑𝑒𝑡𝑖𝑛𝑜𝑠.
+    </li>
+</ol>
+    </div>
+</div>
  
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%8A+%F0%9D%93%94%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
  <br>
