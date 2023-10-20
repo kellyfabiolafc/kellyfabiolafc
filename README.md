@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=Hola+%2C+soy+Fabiola+Flores+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%C2%A1%F0%9D%90%BB%F0%9D%91%9C%F0%9D%93%81%F0%9D%92%B6%2C+%F0%9D%93%88%F0%9D%91%9C%F0%9D%93%8E+%F0%9D%90%B9%F0%9D%92%B6%F0%9D%92%B7%F0%9D%92%BE%F0%9D%91%9C%F0%9D%93%81%F0%9D%92%B6+%F0%9D%90%B9%F0%9D%93%81%F0%9D%91%9C%F0%9D%93%87%F0%9D%91%92%F0%9D%93%88!+%F0%9F%91%8B)](https://git.io/typing-svg)
 <p align="center" width="100%"> 
   <img width="100%" src="banr7.gif">
 </p>
