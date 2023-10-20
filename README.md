@@ -5,14 +5,13 @@
   <img width="100%" src="banr7.gif">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%98%84+Acerca+de+mi+)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%9D+Acerca+de+mi+)](https://git.io/typing-svg)
  
 - 💻 Desarrolladora Frontend Junior.
 - 📚 Graduada de Laboratoria.
 - 🌟 Apasionada por la tecnología y los retos.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%92%BB+Herramientas+Tecnol%C3%B3gicas+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F++Herramientas+Tecnologicas+)](https://git.io/typing-svg)
 <div align="center">  
   <table><tr><td valign="top" width="33%">
 <div align="center">  
@@ -40,8 +39,7 @@
 <br/>  
 
 
-
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%98%80+Habilidades+Blandas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=+%F0%9F%8E%AF+Habilidades+Blandas)](https://git.io/typing-svg)
  <br>
 - 🤝 Trabajo en equipo.
 - 🧠 Resolución de problemas.
@@ -52,18 +50,18 @@
 
  <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB+Experiencia)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9A%80+Experiencia)](https://git.io/typing-svg)
  
 - Desarrolladora Front-End en proyectos simulados en Laboratoria: Desde que me uní a Laboratoria, he trabajado en varios proyectos simulados que me permitieron experimentar y poner en práctica mis conocimientos de programación y desarrollo web. Durante este tiempo, he aprendido a trabajar en equipo, a gestionar proyectos y a resolver problemas de manera efectiva.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%82+Proyectos+Destacados)](https://git.io/typing-svg)
- 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%8C%9F+Proyectos+Destacados)](https://git.io/typing-svg)
+
 1. **[Card Validation](https://kellyfabiolafc.github.io/DEV004-card-validation/)**:  Mejora la experiencia de usuario al validar números de tarjeta de crédito.
 2. **[Studio Ghibli](https://kellyfabiolafc.github.io/DEV004-data-lovers/src/)**: Detalles encantadores sobre animaciones de Studio Ghibli. 
 3. **[Wanderlust](https://wanderlust-kea.netlify.app/)**:  Red social viajera para compartir aventuras y descubrir nuevos destinos.
  <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%AC+Estadisticas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%8A+Estad%C3%ADsticas)](https://git.io/typing-svg)
  <br>
 <div align="center">
 
@@ -74,7 +72,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&pause=1000&color=B7CC9F&width=435&lines=%F0%9F%93%AC+Contacto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%AC+Contacto)](https://git.io/typing-svg)
  
 <div align="center">
 <a href="https://linkedin.com/in/fabiola-fc" target="_blank">
