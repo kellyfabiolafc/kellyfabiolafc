@@ -58,7 +58,7 @@
 <br>
 
 <div style="display: flex; justify-content: space-around;">
-    <div   align="right" width="400px" >
+    <div   align="left" width="400px" >
       <br>
       <br>
       <br>
