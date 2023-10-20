@@ -81,12 +81,12 @@
 <br>
 <div align="center">
 <a href="https://linkedin.com/in/fabiola-fc" target="_blank">
-<img align="center"  src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/kellyfabiolafc" target="_blank">
-<img   align="center"  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
-   </div>
+</div>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kellyfabiolafc" alt="visitor badge">
 
