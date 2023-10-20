@@ -51,26 +51,27 @@
     </td></tr></table>  
 </div>
  
-<img  align="left" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%8A+%F0%9D%93%94%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC" alt="Typing SVG" />
+<img  style="margin-top: 40px;" align="left" width="400px"   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%8A+%F0%9D%93%94%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC" alt="Typing SVG" />
 
-<img align="right"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%AB+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8+" alt="Typing SVG" />
+<img  style="margin-top: 40px;" align="right" width="400px"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%AB+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8+" alt="Typing SVG" />
 
 <a href="https://linkedin.com/in/fabiola-fc" target="_blank">
-<img  style="margin-top: 40px;" align="right"  src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img align="center"  src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/kellyfabiolafc" target="_blank">
-<img   style="margin-top: 40px;" align="right"  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img   align="center"  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
  <br>
  <img  style="margin-top: 40px;" align="left" width="400px"  src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&theme=radical" alt="Fabiola's GitHub stats">
 <br>
 <br>
 
+
+
 <div style="display: flex; justify-content: space-around;">
     <div   align="left" width="400px" >
       <br>
-      <br>
-      <br>
+
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9A%80+%F0%9D%93%94%F0%9D%94%81%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AC%F0%9D%93%B2%F0%9D%93%AA" alt="Typing SVG" /></a>
  <p> - 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝐹𝑟𝑜𝑛𝑡-𝐸𝑛𝑑 𝑒𝑛 𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠 𝑠𝑖𝑚𝑢𝑙𝑎𝑑𝑜𝑠 𝑒𝑛 <br> 𝐿𝑎𝑏𝑜𝑟𝑎𝑡𝑜𝑟𝑖𝑎: 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎 𝑒𝑛 𝑑𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑜 𝑦 𝑔𝑒𝑠𝑡𝑖𝑜𝑛 𝑑𝑒 <br> 
    𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠  𝑤𝑒𝑏. 𝐻𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑒𝑛 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜 𝑦 <br>
