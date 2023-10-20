@@ -77,7 +77,7 @@
 
 
 
-<img     style="margin-top: 40px;" align="right" width="400px"    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%AB+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8+" alt="Typing SVG" />
+<img     style="margin-top: 40px;" align="left" width="400px"    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%AB+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8+" alt="Typing SVG" />
 <br>
 <div align="left">
 <a href="https://linkedin.com/in/fabiola-fc" target="_blank">
@@ -90,9 +90,6 @@
 </a>  
    </div>
 
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kellyfabiolafc" alt="visitor badge">
 
-
-
-
-![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kellyfabiolafc)
 
