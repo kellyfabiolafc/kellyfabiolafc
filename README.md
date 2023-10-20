@@ -54,13 +54,14 @@
 <img  style="margin-top: 40px;" align="left" width="400px"   src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%8A+%F0%9D%93%94%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC" alt="Typing SVG" />
 
 <img  style="margin-top: 40px;" align="right" width="400px"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%AB+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8+" alt="Typing SVG" />
-
+<div align="right">
 <a href="https://linkedin.com/in/fabiola-fc" target="_blank">
 <img align="center"  src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://github.com/kellyfabiolafc" target="_blank">
 <img   align="center"  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
+   </div>
  <br>
  <img  style="margin-top: 40px;" align="left" width="400px"  src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&theme=radical" alt="Fabiola's GitHub stats">
 <br>
