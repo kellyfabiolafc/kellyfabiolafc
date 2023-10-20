@@ -64,7 +64,7 @@
 </a>  
    </div>
  <br>
- <img  style="margin-top: 40px;" align="left" width="400px"  src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&theme=radical" alt="Fabiola's GitHub stats">
+ <img  style="margin-top: 40px; padding-botom: 88px" align="left" width="400px"  src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&theme=radical" alt="Fabiola's GitHub stats">
 <br>
 <br>
 
