@@ -91,9 +91,9 @@
 <img   align="center"  src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>  
    </div>
- <br>
- <img   style="margin-top: 40px;" align="right" width="400px"  src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&theme=radical" alt="Fabiola's GitHub stats">
-<br>
+
+
+
 
 
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=kellyfabiolafc)
