@@ -5,13 +5,13 @@
   <img width="100%" src="banr7.gif">
 </p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%9D+Acerca+de+mi+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%9D+%F0%9D%93%90%F0%9D%93%AC%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%AC%F0%9D%93%AA+%F0%9D%93%AD%F0%9D%93%AE+%F0%9D%93%B6%F0%9D%93%B2)](https://git.io/typing-svg)
  
 - 💻 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝐹𝑟𝑜𝑛𝑡𝑒𝑛𝑑 𝐽𝑢𝑛𝑖𝑜𝑟.
 - 📚 𝐺𝑟𝑎𝑑𝑢𝑎𝑑𝑎 𝑑𝑒 𝐿𝑎𝑏𝑜𝑟𝑎𝑡𝑜𝑟𝑖𝑎.
 - 🌟 𝐴𝑝𝑎𝑠𝑖𝑜𝑛𝑎𝑑𝑎 𝑝𝑜𝑟 𝑙𝑎 𝑡𝑒𝑐𝑛𝑜𝑙𝑜𝑔𝑖́𝑎 𝑦 𝑙𝑜𝑠 𝑟𝑒𝑡𝑜𝑠.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F++Herramientas+Tecnologicas+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%BB%F0%9D%93%AA%F0%9D%93%B6%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%BC+%F0%9D%93%A3%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%B7%F0%9D%93%B8%F0%9D%93%B5%C3%B3%F0%9D%93%B0%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
 <div align="center">  
   <table><tr><td valign="top" width="33%">
 <div align="center">  
@@ -39,7 +39,7 @@
 <br/>  
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=+%F0%9F%8E%AF+Habilidades+Blandas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=+%F0%9F%8E%AF+%F0%9D%93%97%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%BC+%F0%9D%93%91%F0%9D%93%B5%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
  <br>
 - 🤝 𝑇𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜.
 - 🧠 𝑅𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜𝑛 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.
@@ -51,18 +51,17 @@
 
  <br>
  
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9A%80+Experiencia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%9A%80+%F0%9D%93%94%F0%9D%94%81%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AC%F0%9D%93%B2%F0%9D%93%AA)](https://git.io/typing-svg)
  
 - 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝐹𝑟𝑜𝑛𝑡-𝐸𝑛𝑑 𝑒𝑛 𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠 𝑠𝑖𝑚𝑢𝑙𝑎𝑑𝑜𝑠 𝑒𝑛 𝐿𝑎𝑏𝑜𝑟𝑎𝑡𝑜𝑟𝑖𝑎: 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎 𝑒𝑛 𝑑𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑜 𝑦 𝑔𝑒𝑠𝑡𝑖𝑜𝑛 𝑑𝑒 𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠 𝑤𝑒𝑏. 𝐻𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑒𝑛 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜 𝑦 𝑟𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜́𝑛 𝑒𝑓𝑒𝑐𝑡𝑖𝑣𝑎 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%8C%9F+Proyectos+Destacados)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%8C%9F+%F0%9D%93%9F%F0%9D%93%BB%F0%9D%93%B8y%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8%F0%9D%93%BC+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B8%F0%9D%93%BC)](https://git.io/typing-svg)
 1. **[Card Validation](https://kellyfabiolafc.github.io/DEV004-card-validation/)**: 𝑀𝑒𝑗𝑜𝑟𝑎 𝑙𝑎 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎 𝑑𝑒 𝑢𝑠𝑢𝑎𝑟𝑖𝑜 𝑎𝑙 𝑣𝑎𝑙𝑖𝑑𝑎𝑟 𝑛𝑢́𝑚𝑒𝑟𝑜𝑠 𝑑𝑒 𝑡𝑎𝑟𝑗𝑒𝑡𝑎 𝑑𝑒 𝑐𝑟𝑒́𝑑𝑖𝑡𝑜.
 2. **[Studio Ghibli](https://kellyfabiolafc.github.io/DEV004-data-lovers/src/)**: 𝐷𝑒𝑡𝑎𝑙𝑙𝑒𝑠 𝑒𝑛𝑐𝑎𝑛𝑡𝑎𝑑𝑜𝑟𝑒𝑠 𝑠𝑜𝑏𝑟𝑒 𝑎𝑛𝑖𝑚𝑎𝑐𝑖𝑜𝑛𝑒𝑠 𝑑𝑒 𝑆𝑡𝑢𝑑𝑖𝑜 𝐺ℎ𝑖𝑏𝑙𝑖. 
 3. **[Wanderlust](https://wanderlust-kea.netlify.app/)**: 𝑅𝑒𝑑 𝑠𝑜𝑐𝑖𝑎𝑙 𝑣𝑖𝑎𝑗𝑒𝑟𝑎 𝑝𝑎𝑟𝑎 𝑐𝑜𝑚𝑝𝑎𝑟𝑡𝑖𝑟 𝑎𝑣𝑒𝑛𝑡𝑢𝑟𝑎𝑠 𝑦 𝑑𝑒𝑠𝑐𝑢𝑏𝑟𝑖𝑟 𝑛𝑢𝑒𝑣𝑜𝑠 𝑑𝑒𝑠𝑡𝑖𝑛𝑜𝑠.
  <br>
  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%8A+Estad%C3%ADsticas)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%8A+%F0%9D%93%94%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
  <br>
 <div align="center">
 
@@ -73,7 +72,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%AC+Contacto)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F495BF&random=false&width=435&lines=%F0%9F%93%AC+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8)](https://git.io/typing-svg)
  
 <div align="center">
 <a href="https://linkedin.com/in/fabiola-fc" target="_blank">
