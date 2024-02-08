@@ -1,6 +1,6 @@
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9D%93%97%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA%2C++%F0%9D%93%A2%F0%9D%93%B8%F0%9D%94%82+%F0%9D%93%95%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA+%F0%9D%93%95%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%BC!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <p> 
-<img  style="margin-top: 40px;" align="right" width="400px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGOY8Cnxf60X1Qpr6yGvKCXORrrRBoHcicSz6gO-vYSgIZa2DcfsU_nGEy7q4PUsZaFhE&usqp=CAU" >
+<img  style="margin-top: 40px;" align="right" width="400px" src="https://bestanimations.com/media/peripherals/1186448195computer-monitor-animated-gif-8.gif" >
 </p>
 
 <div style="margin-top: 40px;" align="left" width="800px">
