@@ -82,12 +82,16 @@
    
 <!-- Experiencia    -->
    
-<div   align="left" width="400px" >
+<div   align="center"  >
+<div align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9F%9A%80+%F0%9D%93%94%F0%9D%94%81%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AC%F0%9D%93%B2%F0%9D%93%AA" alt="Typing SVG" />
  <p> - 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝐹𝑟𝑜𝑛𝑡-𝐸𝑛𝑑 𝑒𝑛 𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠 𝑠𝑖𝑚𝑢𝑙𝑎𝑑𝑜𝑠 𝑒𝑛 <br> 𝐿𝑎𝑏𝑜𝑟𝑎𝑡𝑜𝑟𝑖𝑎: 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎 𝑒𝑛 𝑑𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑜 𝑦 𝑔𝑒𝑠𝑡𝑖𝑜𝑛 𝑑𝑒 <br> 
    𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠  𝑤𝑒𝑏. 𝐻𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑒𝑛 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜 𝑦 <br>
    𝑟𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜́𝑛 𝑒𝑓𝑒𝑐𝑡𝑖𝑣𝑎 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.</p>
-    </div>
+</div>
+ <img src="/ddao.png" align="rigth"  width="150px">
+
+</div>
 
 
 
