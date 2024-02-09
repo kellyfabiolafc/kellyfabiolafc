@@ -1,3 +1,9 @@
+
+<div align="center">
+  <a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=_hexcode%20&textBg=false"/>
+  </a>
+</div>
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9D%93%97%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA%2C++%F0%9D%93%A2%F0%9D%93%B8%F0%9D%94%82+%F0%9D%93%95%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA+%F0%9D%93%95%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%BC!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <p> 
 <img  style="margin-top: 40px;" align="right" width="400px" src="https://bestanimations.com/media/peripherals/1186448195computer-monitor-animated-gif-8.gif" >
@@ -53,9 +59,7 @@
     </td></tr></table>  
 </div>
  
-<img  style="margin-top: 40px;" align="left"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9F%93%8A+%F0%9D%93%94%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B2%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC" alt="Typing SVG" />
- <img   style="margin-top: 40px;" align="left" width="400px"  src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&theme=radical" alt="Fabiola's GitHub stats">
-
+  <img src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=8c8c8c&icon_color=8c8c8c&text_color=8c8c8c&bg_color=0e1118&border_color=0d1017&disable_animations=true" width="460" alt="Juletopi-stats" title="Juletopi's GitHub Stats">
 
 
   <br>
@@ -94,4 +98,8 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kellyfabiolafc" alt="visitor badge">
 
-
+<div align="center">
+  <a href="#">
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=190&color=_hexcode%20&textBg=false&section=footer"/>
+  </a>
+</div>
