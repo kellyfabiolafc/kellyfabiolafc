@@ -62,7 +62,7 @@
    𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠  𝑤𝑒𝑏. 𝐻𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑒𝑛 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜 𝑦 <br>
    𝑟𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜́𝑛 𝑒𝑓𝑒𝑐𝑡𝑖𝑣𝑎 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.</p>
 </div>
- <img src="/ddao.png" align="right" width="150px">
+ <img src="/ddao.png" align="center" width="150px">
 </div>
 <br>
 <!-- Herramientas Tecnologicas -->
