@@ -111,7 +111,7 @@
    <img   style="margin-top: 40px;" align="left" width="400px"  src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Fabiola's%20GitHub%20Stats&title_color=ffff&icon_color=8c8c8c&border_color=0d1017&bg_color=0e1118&disable_animations" width="460" alt="Fabiola-stats" title="Fabiola's GitHub Stats">
   </a>
   
-   
+   <img src="/LOGOPAGINA (3).png" align="rigth"  width="150px">
 
 </div>
 <!-- contacto  -->
