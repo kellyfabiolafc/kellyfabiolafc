@@ -63,9 +63,8 @@
    𝑟𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜́𝑛 𝑒𝑓𝑒𝑐𝑡𝑖𝑣𝑎 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.</p>
 </div>
  <img src="/ddao.png" align="right" width="150px">
-
 </div>
-
+<br>
 <!-- Herramientas Tecnologicas -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%BB%F0%9D%93%AA%F0%9D%93%B6%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%BC+%F0%9D%93%A3%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%B7%F0%9D%93%B8%F0%9D%93%B5%C3%B3%F0%9D%93%B0%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
