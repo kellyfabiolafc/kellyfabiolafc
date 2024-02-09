@@ -1,17 +1,25 @@
+<!-- Header -->
 
 <div align="center">
   <a href="#">
     <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e7e7e&height=130&section=header"/>
   </a>
 </div>
+
+<!-- Titulo  -->
+
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C3C3C3&center=true&random=false&width=435&lines=%F0%9D%93%97%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA%2C+%F0%9D%93%A2%F0%9D%93%B8%F0%9D%94%82+%F0%9D%93%95%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA+%F0%9D%93%95%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%BC!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 </div>
 
+<!-- Banner -->
 
-<p> 
+
 <img  style="margin-top: 40px;" align="right" width="400px" src="https://bestanimations.com/media/peripherals/1186448195computer-monitor-animated-gif-8.gif" >
-</p>
+
+
+<!-- Acerca de mi -->
+
 
 <div style="margin-top: 40px;" align="left" width="800px">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9F%93%9D+%F0%9D%93%90%F0%9D%93%AC%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%AC%F0%9D%93%AA+%F0%9D%93%AD%F0%9D%93%AE+%F0%9D%93%B6%F0%9D%93%B2" alt="Typing SVG" /></a>
@@ -21,10 +29,15 @@
   <li>🌟 𝐴𝑝𝑎𝑠𝑖𝑜𝑛𝑎𝑑𝑎 𝑝𝑜𝑟 𝑙𝑎 𝑡𝑒𝑐𝑛𝑜𝑙𝑜𝑔𝑖́𝑎 𝑦 𝑙𝑜𝑠 𝑟𝑒𝑡𝑜𝑠.</li>
 </ul>
 </div>
- <div style="margin-top: 40px;" align="left" width="400px">
+
+
+<!-- Habilidades Blandas -->
+
+<div style="margin-top: 40px;" align="left" width="400px">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=+%F0%9F%8E%AF+%F0%9D%93%97%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B5%F0%9D%93%B2%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%AE%F0%9D%93%BC+%F0%9D%93%91%F0%9D%93%B5%F0%9D%93%AA%F0%9D%93%B7%F0%9D%93%AD%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
- <br>
+<br>
+
  <ul>
   <li>🤝 𝑇𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜.</li>
   <li>🧠 𝑅𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜𝑛 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.</li>
@@ -35,10 +48,12 @@
   <li>🔍 𝐴𝑡𝑒𝑛𝑐𝑖ó𝑛 𝑎𝑙 𝑑𝑒𝑡𝑎𝑙𝑙𝑒.</li>
 </ul>
 
-
 </div>
 
+<!-- Herramientas Tecnologicas -->
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9F%9B%A0%EF%B8%8F+%F0%9D%93%97%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%BB%F0%9D%93%AA%F0%9D%93%B6%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%BC+%F0%9D%93%A3%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%B7%F0%9D%93%B8%F0%9D%93%B5%C3%B3%F0%9D%93%B0%F0%9D%93%B2%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%BC)](https://git.io/typing-svg)
+
 <div align="left">  
   <table><tr><td valign="top" width="33%">
 <div align="center">  
@@ -62,16 +77,24 @@
       </div>
     </td></tr></table>  
 </div>
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=8c8c8c&icon_color=8c8c8c&text_color=8c8c8c&bg_color=0e1118&border_color=0d1017&disable_animations=true" width="460" alt="Juletopi-stats" title="Juletopi's GitHub Stats">
-</div>
-    <div   align="left" width="400px" >
+
+ 
+   
+<!-- Experiencia    -->
+   
+<div   align="left" width="400px" >
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9F%9A%80+%F0%9D%93%94%F0%9D%94%81%F0%9D%93%B9%F0%9D%93%AE%F0%9D%93%BB%F0%9D%93%B2%F0%9D%93%AE%F0%9D%93%B7%F0%9D%93%AC%F0%9D%93%B2%F0%9D%93%AA" alt="Typing SVG" />
  <p> - 𝐷𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑎𝑑𝑜𝑟𝑎 𝐹𝑟𝑜𝑛𝑡-𝐸𝑛𝑑 𝑒𝑛 𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠 𝑠𝑖𝑚𝑢𝑙𝑎𝑑𝑜𝑠 𝑒𝑛 <br> 𝐿𝑎𝑏𝑜𝑟𝑎𝑡𝑜𝑟𝑖𝑎: 𝐸𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎 𝑒𝑛 𝑑𝑒𝑠𝑎𝑟𝑟𝑜𝑙𝑙𝑜 𝑦 𝑔𝑒𝑠𝑡𝑖𝑜𝑛 𝑑𝑒 <br> 
    𝑝𝑟𝑜𝑦𝑒𝑐𝑡𝑜𝑠  𝑤𝑒𝑏. 𝐻𝑎𝑏𝑖𝑙𝑖𝑑𝑎𝑑𝑒𝑠 𝑒𝑛 𝑡𝑟𝑎𝑏𝑎𝑗𝑜 𝑒𝑛 𝑒𝑞𝑢𝑖𝑝𝑜 𝑦 <br>
    𝑟𝑒𝑠𝑜𝑙𝑢𝑐𝑖𝑜́𝑛 𝑒𝑓𝑒𝑐𝑡𝑖𝑣𝑎 𝑑𝑒 𝑝𝑟𝑜𝑏𝑙𝑒𝑚𝑎𝑠.</p>
     </div>
-    <div align="left" width="200px">
+
+
+
+ <!-- Proyectos Destacados     -->
+
+
+<div align="left" width="200px">
         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=+%F0%9F%8C%9F+%F0%9D%93%9F%F0%9D%93%BB%F0%9D%93%B8%F0%9D%94%82%F0%9D%93%AE%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8%F0%9D%93%BC+%F0%9D%93%93%F0%9D%93%AE%F0%9D%93%BC%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%AA%F0%9D%93%AD%F0%9D%93%B8%F0%9D%93%BC" alt="Typing SVG" /></a>
 <p>  • <strong><a href="https://kellyfabiolafc.github.io/DEV004-card-validation/"> Card Validation</a>:</strong> 𝑀𝑒𝑗𝑜𝑟𝑎 𝑙𝑎 𝑒𝑥𝑝𝑒𝑟𝑖𝑒𝑛𝑐𝑖𝑎
       𝑑𝑒 𝑢𝑠𝑢𝑎𝑟𝑖𝑜 𝑎𝑙  <br> 𝑣𝑎𝑙𝑖𝑑𝑎𝑟  𝑛𝑢́𝑚𝑒𝑟𝑜𝑠   𝑑𝑒
@@ -81,10 +104,17 @@
     <p> • <strong><a href="https://wanderlust-kea.netlify.app/"> Wanderlust</a>:</strong> 𝑅𝑒𝑑 𝑠𝑜𝑐𝑖𝑎𝑙 𝑣𝑖𝑎𝑗𝑒𝑟𝑎 𝑝𝑎𝑟𝑎 𝑐𝑜𝑚𝑝𝑎𝑟𝑡𝑖𝑟  <br> 𝑎𝑣𝑒𝑛𝑡𝑢𝑟𝑎𝑠 𝑦 𝑑𝑒𝑠𝑐𝑢𝑏𝑟𝑖𝑟 𝑛𝑢𝑒𝑚𝑜𝑠 𝑑𝑒𝑡𝑖𝑛𝑜𝑠. </p>
     </div>
 
+<!-- Stats -->
 
-
+<div align="center">
+  <img  src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=8c8c8c&icon_color=8c8c8c&text_color=8c8c8c&bg_color=0e1118&border_color=0d1017&disable_animations=true" width="460" alt="Juletopi-stats" title="Juletopi's GitHub Stats">
+</div>
+  
+  
+<!-- contacto  -->
 
 <img  align="left"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9F%93%AB+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8+" alt="Typing SVG" />
+
 <br>
 
 <div align="left">
@@ -96,6 +126,8 @@
 </a>  
 </div>  
  <br>
+
+<!-- footer -->
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kellyfabiolafc" alt="visitor badge">
 
