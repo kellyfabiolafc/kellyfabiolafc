@@ -5,13 +5,11 @@
   </a>
 </div>
 
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C3C3C3&center=true&random=false&width=435&lines=%F0%9D%93%97%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA%2C+%F0%9D%93%A2%F0%9D%93%B8%F0%9D%94%82+%F0%9D%93%95%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA+%F0%9D%93%95%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%BC!+%F0%9F%91%8B" alt="Typing SVG" /></a>
+</div>
 
 
-
-
-
-
-<a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9D%93%97%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA%2C++%F0%9D%93%A2%F0%9D%93%B8%F0%9D%94%82+%F0%9D%93%95%F0%9D%93%AA%F0%9D%93%AB%F0%9D%93%B2%F0%9D%93%B8%F0%9D%93%B5%F0%9D%93%AA+%F0%9D%93%95%F0%9D%93%B5%F0%9D%93%B8%F0%9D%93%BB%F0%9D%93%AE%F0%9D%93%BC!+%F0%9F%91%8B" alt="Typing SVG" /></a>
 <p> 
 <img  style="margin-top: 40px;" align="right" width="400px" src="https://bestanimations.com/media/peripherals/1186448195computer-monitor-animated-gif-8.gif" >
 </p>
