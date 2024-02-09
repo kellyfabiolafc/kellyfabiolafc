@@ -108,9 +108,11 @@
 
   <div align="center">
   <a href="https://github.com/kellyfabiolafc/">
-    <img src="https://github-readme-stats.vercel.app/api?username=nelsonbarrera&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=kellyfabiolafc's%20GitHub%20Stats&title_color=8c8c8c&icon_color=8c8c8c&border_color=0d1017&bg_color=0e1118&disable_animations=true" width="460" alt="Fabiola-stats" title="Fabiola's GitHub Stats">
+   <img   style="margin-top: 40px;" align="left" width="400px"  src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Fabiola's%20GitHub%20Stats&title_color=ffff&icon_color=8c8c8c&border_color=0d1017&bg_color=0e1118&disable_animations" width="460" alt="Fabiola-stats" title="Fabiola's GitHub Stats">
   </a>
   
+   
+
 </div>
 <!-- contacto  -->
 
