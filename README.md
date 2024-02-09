@@ -106,11 +106,14 @@
 
 <!-- Stats -->
 
-<div align="center">
-  <img  src="https://github-readme-stats.vercel.app/api?username=juletopi&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Juletopi's%20GitHub%20Stats&title_color=8c8c8c&icon_color=8c8c8c&text_color=8c8c8c&bg_color=0e1118&border_color=0d1017&disable_animations=true" width="460" alt="Juletopi-stats" title="Juletopi's GitHub Stats">
+  <div align="center">
+  <a href="https://github.com/kellyfabiolafc/">
+   <img   style="margin-top: 40px;" align="left" width="400px"  src="https://github-readme-stats.vercel.app/api?username=kellyfabiolafc&show_icons=true&count_private=false&include_all_commits=true&theme=codeSTACKr&custom_title=Fabiola's%20GitHub%20Stats&title_color=ffff&icon_color=8c8c8c&border_color=0d1017&bg_color=0e1118&disable_animations" width="460" alt="Fabiola-stats" title="Fabiola's GitHub Stats">
+  </a>
+  
+   
+
 </div>
-  
-  
 <!-- contacto  -->
 
 <img  align="left"  src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=C3C3C3&random=false&width=435&lines=%F0%9F%93%AB+%F0%9D%93%92%F0%9D%93%B8%F0%9D%93%B7%F0%9D%93%BD%F0%9D%93%AA%F0%9D%93%AC%F0%9D%93%BD%F0%9D%93%B8+" alt="Typing SVG" />
