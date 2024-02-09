@@ -1,7 +1,7 @@
 
 <div align="center">
   <a href="#">
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e7e7e&height=120&section=header"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e7e7e&height=140&section=header"/>
   </a>
 </div>
 
@@ -107,6 +107,6 @@
 
 <div align="center">
   <a href="#">
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e7e7e&height=120&section=footer"/>
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7e7e7e&height=140&section=footer"/>
   </a>
 </div>
