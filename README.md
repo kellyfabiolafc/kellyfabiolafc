@@ -72,6 +72,7 @@
 <div align="left">  
   <table><tr><td valign="top" width="33%">
 <div align="center">  
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=jest&logoColor=white">
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
