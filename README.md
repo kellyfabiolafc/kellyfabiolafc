@@ -73,6 +73,22 @@
   <table><tr><td valign="top" width="33%">
 <div align="center">  
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=jest&logoColor=white">
+<img src="https://img.shields.io/badge/Cypress-ED8B0?style=for-the-badge&logo=Cypress&logoColor=white">
+<img src="https://img.shields.io/badge/Selenium-%2332323A.svg?style=for-the-badge&logo=selenium&logoColor=white&color=green">
+
+<img src="https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+<img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white">
+
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+
+
+<img src="https://img.shields.io/badge/Appium-472A91?style=for-the-badge&logo=appium&logoColor=white">
+
+<img src="https://img.shields.io/badge/Serenity BDD-00A9E0?style=for-the-badge&logo=serenitybdd&logoColor=white">
+
+<img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white">
+
+
  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white" />
  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
